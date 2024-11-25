@@ -1,23 +1,23 @@
 # Disciplina: Prática Integradora Desenvolvimento de Apps
-
 <br>
+
 ## Título da Prática 
 Criação e Gerenciamento de um Repositório no GitHub
-
 <br>
+
 ## Objetivos 
 Aprender a usar o sistema de versionamento GitHub para criar um repositório e gerenciar suas versões.
-
 <br>
+
 ## Materiais, Métodos e Ferramentas
 Pesquisa na internet, conta no GitHub e conhecimento básico dos comandos Git.
-
 <br>
+
 ## Descrição da Atividade
 Nesta atividade, você irá praticar o uso do Git, um sistema de controle de versão distribuído, e do GitHub, uma plataforma de hospedagem de código para controle de versão e colaboração, permitindo que você e outros trabalhem juntos em projetos de qualquer lugar.
+<br>
+<br>
 
-<br>
-<br>
 ## Atividade Prática:
 
 ### 1. Criação de um Repositório GitHub
