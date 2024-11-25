@@ -2,8 +2,10 @@
 
 
 
+
 ## Título da Prática 
 Criação e Gerenciamento de um Repositório no GitHub
+
 
 
 
@@ -12,13 +14,16 @@ Aprender a usar o sistema de versionamento GitHub para criar um repositório e g
 
 
 
+
 ## Materiais, Métodos e Ferramentas
 Pesquisa na internet, conta no GitHub e conhecimento básico dos comandos Git.
 
 
 
+
 ## Descrição da Atividade
 Nesta atividade, você irá praticar o uso do Git, um sistema de controle de versão distribuído, e do GitHub, uma plataforma de hospedagem de código para controle de versão e colaboração, permitindo que você e outros trabalhem juntos em projetos de qualquer lugar.
+
 
 
 
@@ -45,6 +50,7 @@ Nesta atividade, você irá praticar o uso do Git, um sistema de controle de ver
 
 
 
+
 ## Instruções Detalhadas para a Entrega:
 
 ### 1. Submissão Inicial
@@ -56,7 +62,6 @@ Nesta atividade, você irá praticar o uso do Git, um sistema de controle de ver
 • Envie o link atualizado do seu repositório como forma de entrega da atividade prática.
 
 
-​
 ## Entrega da Atividade:
 
 ### Link do repositório GitHub contendo:
